@@ -47,7 +47,7 @@ const Navbar = () => {
           </div>
           <div className="item">
             <img
-              src="https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/236565692_2912891505622271_8278126559179180448_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGR-taHD2t8Gypl75Su69Uwg1Cr0M45Zs-DUKvQzjlmzxISQrDYtzCv9e_12aQq47P86xXXdsouGhJrSnR_0FVD&_nc_ohc=CQdKnP1YHXYAX8E8V4S&tn=LDsQRtEcHK3N-XdA&_nc_ht=scontent.fcai19-4.fna&oh=00_AfCV24TNDeRRpiWHCwN92Srk3UcKlDkQed005BtPs4bVRg&oe=636C6CD5"
+              src="https://nubiapage.com/wp-content/uploads/3008_australian-11.jpg"
               alt="Avatar"
               className="avatar"
             />
